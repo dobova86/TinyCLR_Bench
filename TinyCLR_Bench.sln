@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCLR_Bench", "TinyCLR_Bench\TinyCLR_Bench.csproj", "{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACFD4FB3-28AA-4D37-ADDC-A106ABB0D525}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249DB16B-33A2-4324-A0B8-F36FD2A8AA4D}
+	EndGlobalSection
+EndGlobal
